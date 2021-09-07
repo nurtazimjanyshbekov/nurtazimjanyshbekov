@@ -9,7 +9,7 @@
 ## <i>I want will be *frontend-developer*!</i>
 
 ## [My Notion](https://www.notion.so/nurtazim-janyshbekov-gmail-com-3ece48ce21a84b29a8306e9766e93803)
-## [My github](https://github.com/nurtazimjanyshbekov)
+## [My github](https://Github.com/nurtazimjanyshbekov)
 ___
 
 ## <strong> Skills and Tools  </strong>
