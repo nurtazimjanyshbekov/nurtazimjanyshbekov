@@ -8,11 +8,21 @@
 ## <i> I'm Nurtazim, and I student of **Jyldyz Academy** </i>
 ## <i>I want will be *frontend-developer*!</i>
 
-## [My Notion](https://www.notion.so/nurtazim-janyshbekov-gmail-com-3ece48ce21a84b29a8306e9766e93803)
-## [My github](https://github.com/nurtazimjanyshbekov)
+[<img width="50px" src="assets/images (2).jpg">](https://t.me/nurtazimkk)
+[<img width="50px" height="50px" src="assets/Screenshot_1.png">](https://www.notion.so/nurtazim-janyshbekov-gmail-com-3ece48ce21a84b29a8306e9766e93803)
+[<img width="50px" height="50px" src="assets/Screenshot_2.png">](https://api.whatsapp.com/send/?phone=996701757070&text&app_absent=0)
 ___
 
+## <strong>Langs and Tools</strong>
+
+![Sass](https://img.shields.io/badge/-sass-000?style=for-the-badge&logo=sass)
+![VScode](https://img.shields.io/badge/-VScode-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
+
+----
+
 ## <strong> Skills and Tools  </strong>
+
 
 
 |Soft Skills|
