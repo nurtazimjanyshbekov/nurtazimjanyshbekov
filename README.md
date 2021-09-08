@@ -9,7 +9,7 @@
 ## <i>I want will be *frontend-developer*!</i>
 
 ## [My Notion](https://www.notion.so/nurtazim-janyshbekov-gmail-com-3ece48ce21a84b29a8306e9766e93803)
-## [My github](https://Github.com/nurtazimjanyshbekov)
+## [My github](https://github.com/nurtazimjanyshbekov)
 ___
 
 ## <strong> Skills and Tools  </strong>
@@ -27,5 +27,11 @@ ___
 |---------|
 |🥇🥇🥇🥇|
 
+<details>
+<summary><b>My statistic⚽</b></summary>
 
+![Nurtazim's Statistic](https://github-readme-stats.vercel.app/api?username=nurtazimjanyshbekov&show_icons=true&theme=radical
+)
+
+</details>
 
