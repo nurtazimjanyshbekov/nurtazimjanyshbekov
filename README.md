@@ -21,7 +21,7 @@ ___
 
 ----
 
-## <strong> Skills and Tools  </strong>
+## <strong>Skills and Tools</strong>
 
 
 
