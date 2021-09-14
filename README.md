@@ -15,13 +15,13 @@ ___
 
 ## <strong>Langs and Tools</strong>
 
-![Sass](https://img.shields.io/badge/-sass-000?style=for-the-badge&logo=sass)
-![VScode](https://img.shields.io/badge/-VScode-000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
-![github](https://img.shields.io/badge/-github-000?style=for-the-badge&logo=github)
+![Sass](https://img.shields.io/badge/-sass-pink?style=for-the-badge&logo=sass)
+![VScode](https://img.shields.io/badge/-VScode-darkblue?style=for-the-badge&logo=visualstudiocode&logoColor=b)
+![github](https://img.shields.io/badge/-github-black?style=for-the-badge&logo=github)
 
 ----
 
-## <strong>Skills and Tools</strong>
+## <strong> Skills and Tools  </strong>
 
 
 
@@ -44,4 +44,6 @@ ___
 )
 
 </details>
+
+
 
