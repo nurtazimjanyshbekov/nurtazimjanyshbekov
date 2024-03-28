@@ -1,4 +1,4 @@
-![image](https://github.com/nurtazimjanyshbekov/nurtazimjanyshbekov/assets/87718248/3c54a5d4-f3a6-45dd-aa41-4311478a988b)
+![image](https://github.com/nurtazimjanyshbekov/nurtazimjanyshbekov/assets/87718248/99067761-c52b-4438-8f52-581cee9b221c)
 
 
 
