@@ -5,8 +5,8 @@
 
 
 # <strong>Hello🖐,My name is Nurtazim!</strong>
-## <i> I'm Nurtazim, and I student of **Jyldyz Academy** </i>
-## <i>I want will be *frontend-developer*!</i>
+## <i> I'm Nurtazim, and I am a student of **Jyldyz Academy** </i>
+## <i>I want to be a *frontend-developer*!</i>
 
 [<img width="50px" src="assets/images (2).jpg">](https://t.me/nurtazimkk)
 [<img width="50px" height="50px" src="assets/Screenshot_1.png">](https://www.notion.so/nurtazim-janyshbekov-gmail-com-3ece48ce21a84b29a8306e9766e93803)
